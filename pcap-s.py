@@ -1,3 +1,9 @@
+'''
+This program is the skeleton file for creating a pcap analyzer.
+The process_pcap function will be edited for more functionality.
+This version of the program only counts the number of packets in a given pcap file.
+'''
+
 # Import libraries
 import argparse
 import os
